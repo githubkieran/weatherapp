@@ -1,0 +1,15 @@
+#Weather App
+____________
+This weather application gets the current weather as well as
+the projected weather for the next 24hrs. 
+
+This application utilises the openweathermap api to fetch
+the data and is displayed using a simple stackc of 
+html / css / js.
+
+This was built quite some time ago, but recreated so that I 
+could display it on my website as a small project. 
+
+Future development ideas:
+    - Pollen count
+    - Responsive icons 
